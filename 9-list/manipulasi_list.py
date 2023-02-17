@@ -12,7 +12,7 @@ print(panjang_data)
 
 #Menambahkan Item pada list sesuai posisi
 print(f"data sebelum ditambah = {data}")
-data.insert(1,"Asepp")
+dataw.insert(1,"Asepp")
 print(f"data setelah ditambah = {data}")
 #Menambah diakhir list
 data.append("Jajang")
